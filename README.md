@@ -41,4 +41,4 @@ pnpm run dev
 pnpm run deploy
 ```
 
-Made with ❤️ in Berlin!
+Made with ❤️ 
